@@ -4,8 +4,14 @@
 ## Here's something
 ```markdown
 Words
-gif? ![Image](https://github.com/roberthjhan/Stock-Webapp/blob/master/Preview.gif)
+gif? 
+
+![Image]
+(https://octodex.github.com/images/yaktocat.png)
 ```
+![Image]
+(https://octodex.github.com/images/yaktocat.png)
+
 
 You can use the [editor on GitHub](https://github.com/roberthjhan/roberthjhan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

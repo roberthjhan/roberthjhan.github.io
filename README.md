@@ -42,7 +42,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ## Here's something
 ```
 Words
-gif? ![Image](src = https://github.com/roberthjhan/Stock-Webapp/blob/master/Preview.gif?raw=true)
+gif? ![Image](src = https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png)
 
 
 ```

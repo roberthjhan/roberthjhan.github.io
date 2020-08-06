@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to  MY GitHub Page
+
+
+## Here's something
+```markdown
+Words
+gif? ![Image](https://github.com/roberthjhan/Stock-Webapp/blob/master/Preview.gif)
+```
 
 You can use the [editor on GitHub](https://github.com/roberthjhan/roberthjhan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -37,15 +44,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 
-
-
-## Here's something
-```
-Words
-gif? ![Image](src = https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png)
-
-
-```
 
 
 

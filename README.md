@@ -7,10 +7,10 @@ Words
 gif? 
 
 ![Image]
-(bird.jpg)
+(../master/images/bird.jpg)
 ```
 ![Image]
-(bird.jpg)
+(../master/images/bird.jpg)
 
 
 You can use the [editor on GitHub](https://github.com/roberthjhan/roberthjhan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

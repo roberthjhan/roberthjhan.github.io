@@ -7,10 +7,10 @@ Words
 gif? 
 
 ![Image]
-(https://octodex.github.com/images/yaktocat.png)
+(/Preview.gif)
 ```
 ![Image]
-(https://octodex.github.com/images/yaktocat.png)
+(/Preview.gif)
 
 
 You can use the [editor on GitHub](https://github.com/roberthjhan/roberthjhan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
